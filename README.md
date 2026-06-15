@@ -50,7 +50,15 @@ The system successfully detects occupied and vacant parking spaces and updates t
 * Cloud-based monitoring
 * Mobile application support
 * AI-based parking analytics
-* Smart city parking management systems
+* Smart city parking management systems## Project Images
+
+### Hardware Setup
+
+![Setup 1](Setup1.png)
+
+![Setup 2](Setup2.png)
+
+![Setup 3](Setup3.png)
 
 ## Project Report
 
